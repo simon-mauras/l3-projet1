@@ -1,0 +1,3 @@
+http://www.geom.uiuc.edu/~samuelp/del_project.html
+http://euro.ecom.cmu.edu/people/faculty/mshamos/1975ClosestPoint.pdf
+http://www.personal.psu.edu/faculty/c/x/cxc11/AERSP560/DELAUNEY/13_Two_algorithms_Delauney.pdf
